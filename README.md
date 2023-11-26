@@ -35,9 +35,21 @@ After learning development I have done a few internships and currently, I'm free
 
 I love to exercise and think.
 
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💬 Ask me about JavaScript, React.js, Competitive Programming and API development.
+- 📫 I am just one mail away - **rakibul.wdp@gmail.com**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1l-L8IO0F3ExL4EbyDMYFVZlku5840MZz/view?usp=drive_link)**
+- :partying_face: Fun fact: I love to raise birds, I love to run and my goal is to complete a full marathon.
+
+### Where to find me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-wdp/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rakibul_wdp)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rakibu.wdp)
+[![Codeforces](https://img.shields.io/badge/Codeforces-fff?style=flat-square&logo=codeforces&logoColor=B91D24)](https://codeforces.com/profile/Rakibul-WDP)
+
 <div align="center">
    <table>
-       <tr>
+     <tr>
        <td><img alt="rakibul-wdp :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=rakibul-wdp&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="rakibul-wdp :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-wdp&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
