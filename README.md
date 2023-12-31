@@ -45,7 +45,7 @@ I love to exercise and think.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-wdp/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rakibul_wdp)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rakibu.wdp)
-[![Codeforces](https://img.shields.io/badge/Codeforces-fff?style=flat-square&logo=codeforces&logoColor=B91D24)](https://codeforces.com/profile/Rakibul-WDP)
+[![Codeforces](https://img.shields.io/badge/Codeforces-fff?style=flat-square&logo=codeforces&logoColor=B91D24)](https://codeforces.com/profile/rakibul-wdp)
 
 <div align="center">
    <table>
