@@ -35,7 +35,7 @@ After learning development I have done a few internships and currently, I'm free
 
 I love to exercise and think.
 
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 I’m currently learning many things, I believe that every day is a learning opportunity.
 - 💬 Ask me about JavaScript, React.js, Competitive Programming and API development.
 - 📫 I am just one mail away - **rakibul.wdp@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1l-L8IO0F3ExL4EbyDMYFVZlku5840MZz/view?usp=drive_link)**
@@ -51,9 +51,9 @@ I love to exercise and think.
    <table>
      <tr>
        <td><img alt="rakibul-wdp :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=rakibul-wdp&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="rakibul-wdp :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-wdp&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+       <td><img alt="rakibul-wdp :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-wdp&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
-     <tr>
+<tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rakibul-wdp&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
