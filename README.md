@@ -54,7 +54,7 @@ I love to exercise and think.
        <td><img alt="rakibul-wdp :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul-wdp&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
      </tr>
 <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rakibul-wdp&theme=blue-green&hide_border=true"></td>
+<!--         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rakibul-wdp&theme=blue-green&hide_border=true"></td> -->
      </tr>
    </table>
 </div>
