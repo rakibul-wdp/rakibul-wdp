@@ -46,7 +46,8 @@ I love to exercise and think.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rakibul_wdp)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rakibu.wdp)
 [![Codeforces](https://img.shields.io/badge/Codeforces-fff?style=flat-square&logo=codeforces&logoColor=B91D24)](https://codeforces.com/profile/rakibul-wdp)
-[![Codeforces](https://img.shields.io/badge/LeetCode-404040?style=flat-square&logo=LeetCode&logoColor=)](https://leetcode.com/u/rakibul-wdp)
+[![CodeChef](https://img.shields.io/badge/CodeChef-855A49?style=flat-square&logo=codechef&logoColor=ffffff)](https://www.codechef.com/users/rakibulwdp)
+[![Leetcode](https://img.shields.io/badge/LeetCode-404040?style=flat-square&logo=LeetCode&logoColor=)](https://leetcode.com/u/rakibul-wdp)
 
 <div align="center">
    <table>
