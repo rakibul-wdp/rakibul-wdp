@@ -42,9 +42,9 @@ I love to exercise and think.
 - :partying_face: Fun fact: I love to raise birds, I love to run and my goal is to complete a full marathon.
 
 ### Where to find me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-wdp/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rakibul_wdp)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rakibu.wdp)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-wdp)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rakibul_wdp)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rakibul.wdp)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rakibul-wdp)
 [![Codeforces](https://img.shields.io/badge/Codeforces-fff?style=flat-square&logo=codeforces&logoColor=B91D24)](https://codeforces.com/profile/rakibul-wdp)
 [![CodeChef](https://img.shields.io/badge/CodeChef-855A49?style=flat-square&logo=codechef&logoColor=ffffff)](https://www.codechef.com/users/rakibulwdp)
