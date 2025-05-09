@@ -35,7 +35,7 @@ After learning development I have done a few internships and currently, I'm free
 
 I love to exercise and think.
 
-- 🌱 I’m currently learning many things, I believe that every day is a learning opportunity.
+- 🌱 I’m currently learning many things. I believe that every day is a learning opportunity.
 - 💬 Ask me about JavaScript, React.js, Competitive Programming and API development.
 - 📫 I am just one mail away - **rakibul.wdp@gmail.com**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1l-L8IO0F3ExL4EbyDMYFVZlku5840MZz/view?usp=drive_link)**
